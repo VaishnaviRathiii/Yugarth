@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# YUGARTH generated files
+data/processed/extracted_entities.json
