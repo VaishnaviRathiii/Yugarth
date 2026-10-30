@@ -1,0 +1,23 @@
+[
+    {
+        "id": "DOC001",
+        "title": "Ashoka and the Mauryan Empire",
+        "source_type": "Historical Record",
+        "language": "English",
+        "text": "Ashoka was an ancient Indian emperor of the Mauryan Empire. His reign is associated with the spread of Buddhism."
+    },
+    {
+        "id": "DOC002",
+        "title": "Sanchi Stupa",
+        "source_type": "Historical Description",
+        "language": "English",
+        "text": "The Great Stupa at Sanchi is an important Buddhist monument. It is traditionally associated with Emperor Ashoka."
+    },
+    {
+        "id": "DOC003",
+        "title": "Ancient Inscriptions",
+        "source_type": "Inscription Description",
+        "language": "English",
+        "text": "Ancient inscriptions provide information about rulers, historical events, places and religious traditions."
+    }
+]
